@@ -12,14 +12,22 @@ When I'm not coding, I'm probably thinking about what to cook next (and yes, I'v
 
 ---
 
-## 🛠️ Core Tech Stack
+## 🛠️ Skills & Tech Stack
 
-- **Languages:** Python, JavaScript / TypeScript, SQL
-- **Frontend:** React, HTML/CSS
-- **Backend:** Node.js, REST APIs, FastAPI
-- **Data & Storage:** PostgreSQL, SQLite, JSON
-- **AI & Automation:** LLMs, agentic workflows, prompt engineering
-- **Tools & Platforms:** Git, GitHub Actions, Docker, VS Code
+**Languages & Frameworks**
+`Python` `JavaScript` `TypeScript` `C#` `.NET` `Lua` `SQL` `PL/SQL` `HTML/CSS` `PHP` `React`
+
+**AI & Automation**
+`Agentic Workflows` `AI/LLMs` `Test Automation` `REST APIs`
+
+**Audio & Hardware Engineering**
+`Audio Precision` `Klippel` `Head Acoustics` `ArtemiS` `Soundcheck` `DAWs` `Lab Test Equipment`
+
+**EDA & Engineering Tools**
+`Siemens Xpedition` `Altium Designer` `DLLs`
+
+**DevOps & Platforms**
+`Git` `GitHub` `GitLab` `Linux (Arch)` `Jira`
 
 ---
 
