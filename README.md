@@ -6,7 +6,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a software engineer who loves turning real-world problems into elegant, working software. My interests span full-stack development, data-driven applications, and the rapidly evolving world of **agentic AI workflows**. I'm especially excited by systems that think, plan, and act — not just compute.
+I'm a software engineer who loves turning real-world problems into elegant, working software. My interests span full-stack development, data-driven applications, and the rapidly evolving world of **agentic AI workflows**. I'm especially excited by systems that think, plan, and act — not just compute. I enjoy leveraging my Hardware background to solve problems that interact with the real world. 
 
 When I'm not coding, I'm probably thinking about what to cook next (and yes, I've automated that too).
 
@@ -60,9 +60,7 @@ Recipe-Manager showcases my hands-on experience with **agentic AI** — using au
 | Platform | Link |
 |----------|------|
 | 🐙 GitHub | [@ASignificantOtter](https://github.com/ASignificantOtter) |
-| 💼 LinkedIn | *[Add your LinkedIn URL]* |
-| 🐦 Twitter / X | *[Add your Twitter/X handle]* |
-| 📧 Email | *[Add your email address]* |
+| 💼 LinkedIn | [@Brett](https://www.linkedin.com/in/brett-angelo-a0317350/) |
 
 ---
 
