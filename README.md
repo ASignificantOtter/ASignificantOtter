@@ -45,6 +45,11 @@ A personal tracking application designed to keep tabs on the things that matter.
 
 Recipe-Manager showcases my hands-on experience with **agentic AI** — using autonomous, multi-step agent pipelines to intelligently manage, suggest, and organize recipes. Rather than simple CRUD, this project leverages LLM-driven agents that can reason, plan, and take action across multiple steps — a glimpse into how I think about the future of software.
 
+### 🔊 [AudioTriage](https://github.com/ASignificantOtter/AudioTriage)
+> *Where hardware expertise meets software automation.*
+
+AudioTriage is an audio engineering utility that bridges my background in acoustic test equipment with modern software development. It streamlines the triage and analysis of audio test data — turning raw measurements into actionable insights. Built to reduce the manual overhead of audio validation workflows, it reflects my belief that the best tools are the ones that get out of the way and let you focus on the problem.
+
 ---
 
 ## 🌱 Currently Exploring
