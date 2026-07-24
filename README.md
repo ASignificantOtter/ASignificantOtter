@@ -1,4 +1,4 @@
-# Hey there, I'm ASignificantOtter 👋🦦
+# Hey there, I'm ASignificantOtter 👋🦦 (Brett)
 
 > Software engineer with a passion for building smart, practical tools — and automating the tedious parts.
 
